@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說罪業應報教化地獄經
+#+DATE: 2015-08-30 20:19:09.087690
+#+PROPERTY: JUAN 0
